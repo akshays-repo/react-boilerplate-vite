@@ -58,6 +58,7 @@
     "install": "^0.13.0",
     "jest": "^28.1.1",
     "jest-environment-jsdom": "^28.1.1",
+    "msw": "^0.42.1",
     "npm": "^8.12.1",
     "prettier": "^2.6.2",
     "semantic-release": "^19.0.2",
